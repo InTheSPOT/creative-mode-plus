@@ -1,0 +1,1 @@
+Upon the start of CreativeModePlus no map editors for Minecraft were suitable for making large building quickly.  Many were very buggy and not being supported.  Others only operated on terrain and not buildings.  While being simple, this should fix that problem.
